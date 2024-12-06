@@ -1,0 +1,23 @@
+#include<bits/stdc++.h>
+class Solution {
+  public:
+    // Function to find the majority elements in the array
+    vector<int> findMajority(vector<int>& arr) {
+        // Your code goes here.
+        unordered_map<int,int> ans;
+        int n=arr.size();
+        int m=n/3;
+        int vote=floor(m);
+        vector<int> store;
+        for(int i:arr){
+            ans[i]++;
+        }
+        for(auto it:ans){
+            if(vote<it.second){
+                store.push_back(it.first);
+            }
+        }
+        sort(store.begin(),store.end());
+        return store;
+    }
+};
