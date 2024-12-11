@@ -1,0 +1,26 @@
+class Solution {
+  public:
+    // Function to find hIndex
+    int hIndex(vector<int>& citations) {
+        // code here
+        
+        int n=citations.size();
+        vector<int> ans(n+1);
+        for(int i=0;i<n;i++){
+            if(citations[i]>=n){
+                ans[n]+=1;
+            }
+            else{
+                ans[citations[i]]+=1;
+            }
+        }
+        int index=n;
+        
+        int m=ans[n];
+        while(m<index){
+            index--;
+            m+=ans[index];
+        }
+        return index;
+    }
+};
