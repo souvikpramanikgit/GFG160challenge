@@ -1,1 +1,17 @@
-code
+class Solution {
+  public:
+    // Function to find the first non-repeating character in a string.
+    char nonRepeatingChar(string &s) {
+        // Your code here
+        unordered_map<char,int> ans;
+        for(char i:s){
+            ans[i]++;
+        }
+        for(auto it:s){
+            if(ans[it]==1){
+                return it;
+            }
+        }
+        return '$';
+    }
+};
