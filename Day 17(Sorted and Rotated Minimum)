@@ -1,1 +1,14 @@
-code
+class Solution {
+  public:
+    int findMin(vector<int>& arr) {
+        // complete the function here
+        int n=arr.size();
+        int minimum=INT_MAX;
+        for(int i=0;i<n;i++){
+            if(minimum>arr[i]){
+                minimum=arr[i];
+            }
+        }
+        return minimum;
+    }
+};
