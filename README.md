@@ -16,3 +16,8 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 08   | [Stock Buy and Sell – Max one Transaction Allowed](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2008(Stock%20Buy%20and%20Sell)) |
 | 09   | [Sort 0s, 1s and 2s](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2009(Sort%200s,%201s%20and%202s)) |
 | 10   | [Find H-Index](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2010(Find%20H-Index)) |
+| 11   | [Non Repeating Character](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2011(Non%20Repeating%20Character)) |
+| 12   | [Repetitive Addition Of Digit](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2012(Repetitive%20Addition%20Of%20Digit)) |
+| 13   | [Insert Interval](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2013(Insert%20Interval)) |
+| 14   | [Fizz Buzz](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2014(Fizz%20Buzz)) |
+| 15   | [Add Binary Strings](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2015(Add%20Binary%20Strings)) |
