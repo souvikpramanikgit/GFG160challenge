@@ -21,3 +21,7 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 13   | [Insert Interval](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2013(Insert%20Interval)) |
 | 14   | [Fizz Buzz](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2014(Fizz%20Buzz)) |
 | 15   | [Add Binary Strings](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2015(Add%20Binary%20Strings)) |
+| 16   | [Number of Occurrence](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2016(Number%20of%20Occurrence)) |
+| 17   | [Sorted and Rotated Minimum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2017(Sorted%20and%20Rotated%20Minimum)) |
+| 18   | [Subarray with Given Sum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2018(Subarray%20with%20Given%20Sum)) |
+| 19   | [Leaders in an Array](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2019(Leaders%20in%20an%20Array)) |
