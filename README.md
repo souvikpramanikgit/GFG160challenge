@@ -40,3 +40,4 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 32   | [K-th Smallest Element](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2032(K-th%20Smallest%20Element)) |
 | 33   | [Job Sequencing Problem](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2033(Job%20Sequencing%20Problem)) |
 | 34   | [Fractional Knapsack](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2034(Fractional%20Knapsack)) |
+| 35   | [Maximum of All Subarrays of Size K](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2035(Maximum%20of%20All%20Subarrays%20of%20Size%20K)) |
