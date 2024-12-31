@@ -1,0 +1,19 @@
+class Solution {
+  public:
+    // Function to return the count of number of elements in union of two arrays.
+    int findUnion(vector<int>& a, vector<int>& b) {
+        // code here
+        unordered_map<int,int> ans;
+        for(int i:a){
+            ans[i]++;
+        }
+        for(int j:b){
+            ans[j]++;
+        }
+        int count=0;
+        for(auto it:ans){
+            count++;
+        }
+        return count;
+    }
+};
