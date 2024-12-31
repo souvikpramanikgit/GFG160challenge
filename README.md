@@ -28,16 +28,16 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 20   | [K-th element of two Arrays](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2020(K-th%20element%20of%20two%20Arrays)) |
 | 21   | [Count Inversions](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2021(Count%20Inversions)) |
 | 22   | [Allocate Minimum Pages](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2022(Allocate%20Minimum%20Pages)) |
-| 23   | [Smallest Subarray with Sum Greater Than X]() |
-| 24   | [Triplet Sum in Array]() |
-| 25   | [Factorial of Large Numbers](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2025(Factorial%20of%20Large%20Numbers)) |
-| 26   | [Maximum Product Subarray](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2026(Maximum%20Product%20Subarray)) |
-| 27   | [Longest Consecutive Subsequence](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2027(Longest%20Consecutive%20Subsequence)) |
-| 28   | [Count Inversions](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2028(Count%20Inversions)) |
-| 29   | [Merge Intervals](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2029(Merge%20Intervals)) |
-| 30   | [Count the Number of Subsequences](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2030(Count%20the%20Number%20of%20Subsequences)) |
-| 31   | [Nth Catalan Number](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2031(Nth%20Catalan%20Number)) |
-| 32   | [K-th Smallest Element](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2032(K-th%20Smallest%20Element)) |
-| 33   | [Job Sequencing Problem](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2033(Job%20Sequencing%20Problem)) |
-| 34   | [Fractional Knapsack](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2034(Fractional%20Knapsack)) |
+| 23   | [Kth Missing Positive Number in a Sorted Array](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2023(Kth%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array)) |
+| 24   | [Non-overlapping Intervals](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2024(Non-overlapping%20Intervals)) |
+| 25   | [Search in a Row-Column sorted matrix](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2025(Search%20in%20a%20Row-Column%20sorted%20matrix)) |
+| 26   | [Rotate by 90 degree](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2026(Rotate%20by%2090%20degree)) |
+| 27   | [Search in a row-wise sorted matrix](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2027(Search%20in%20a%20row-wise%20sorted%20matrix)) |
+| 28   | [Search in a sorted Matrix](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2028(Search%20in%20a%20sorted%20Matrix)) |
+| 29   | [Spirally traversing a matrix](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2029(Spirally%20traversing%20a%20matrix)) |
+| 30   | [Two Sum - Pair with Given Sum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2030(Two%20Sum%20-%20Pair%20with%20Given%20Sum)) |
+| 31   | [Count pairs with given sum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2031(Count%20pairs%20with%20given%20sum)) |
+| 32   | [Find All Triplets with Zero Sum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2032(Find%20All%20Triplets%20with%20Zero%20Sum)) |
+| 33   | [Intersection of Two arrays with Duplicate Elements](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2033(Intersection%20of%20Two%20arrays%20with%20Duplicate%20Elements)) |
+| 34   | [Union of Arrays with Duplicates](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2034(Union%20of%20Arrays%20with%20Duplicates)) |
 | 35   | [Longest Consecutive Subsequence](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2035(Longest%20Consecutive%20Subsequence)) |
