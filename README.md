@@ -25,3 +25,11 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 17   | [Sorted and Rotated Minimum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2017(Sorted%20and%20Rotated%20Minimum)) |
 | 18   | [Subarray with Given Sum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2018(Subarray%20with%20Given%20Sum)) |
 | 19   | [Leaders in an Array](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2019(Leaders%20in%20an%20Array)) |
+| 20   | [Count Pairs with Given Sum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2020(Count%20Pairs%20with%20Given%20Sum)) |
+| 21   | [Missing Number](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2021(Missing%20Number)) |
+| 22   | [Equilibrium Point](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2022(Equilibrium%20Point)) |
+| 23   | [Smallest Subarray with Sum Greater Than X](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2023(Smallest%20Subarray%20with%20Sum%20Greater%20Than%20X)) |
+| 24   | [Triplet Sum in Array](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2024(Triplet%20Sum%20in%20Array)) |
+| 25   | [Factorial of Large Numbers](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2025(Factorial%20of%20Large%20Numbers)) |
+| 26   | [Maximum Product Subarray](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2026(Maximum%20Product%20Subarray)) |
+| 27   | [Longest Consecutive Subsequence](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2027(Longest%20Consecutive%20Subsequence)) |
