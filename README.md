@@ -33,3 +33,10 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 25   | [Factorial of Large Numbers](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2025(Factorial%20of%20Large%20Numbers)) |
 | 26   | [Maximum Product Subarray](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2026(Maximum%20Product%20Subarray)) |
 | 27   | [Longest Consecutive Subsequence](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2027(Longest%20Consecutive%20Subsequence)) |
+| 28   | [Count Inversions](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2028(Count%20Inversions)) |
+| 29   | [Merge Intervals](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2029(Merge%20Intervals)) |
+| 30   | [Count the Number of Subsequences](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2030(Count%20the%20Number%20of%20Subsequences)) |
+| 31   | [Nth Catalan Number](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2031(Nth%20Catalan%20Number)) |
+| 32   | [K-th Smallest Element](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2032(K-th%20Smallest%20Element)) |
+| 33   | [Job Sequencing Problem](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2033(Job%20Sequencing%20Problem)) |
+| 34   | [Fractional Knapsack](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2034(Fractional%20Knapsack)) |
