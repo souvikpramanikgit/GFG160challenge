@@ -1,0 +1,18 @@
+class Solution {
+  public:
+    int longestUniqueSubstr(string &s) {
+        // code here
+        unordered_map<char,int> ans;
+        
+        int answer=0;
+        int last=-1;
+        for(int i=0;i<s.size();i++){
+            if(ans.find(s[i])!=ans.end()){
+                last=max(last,ans[s[i]]);
+            }
+            answer=max(answer,i-last);
+            ans[s[i]]=i;
+        }
+        return answer;
+    }
+};
