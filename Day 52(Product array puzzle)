@@ -1,0 +1,35 @@
+class Solution {
+  public:
+    vector<int> productExceptSelf(vector<int>& arr) {
+        // code here
+        
+        vector<int> vec(arr.size());
+        int product = 1;
+        int zeroCount = 0;
+        
+        for(int i=0; i<arr.size(); i++) {
+            if(arr[i] == 0) zeroCount++;
+            else product *= arr[i];
+        }
+        
+        //case 1 - when zeroCount is more than 1
+        if(zeroCount > 1) return vector<int>(arr.size(), 0);
+        
+        //case 2 - when zeroCount is 1
+        if(zeroCount == 1) {
+            for(int i=0; i<arr.size(); i++) {
+                if(arr[i] == 0) vec[i] = product;
+                else vec[i] = 0;
+            }
+            return vec;
+        }
+        
+        //case 3
+        for(int i=0; i<arr.size(); i++) {
+            vec[i] = product/arr[i];
+        }
+        return vec;
+
+        
+    }
+};
