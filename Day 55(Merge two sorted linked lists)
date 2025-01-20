@@ -1,0 +1,36 @@
+/* Link list Node
+struct Node {
+  int data;
+  struct Node *next;
+
+  Node(int x) {
+    data = x;
+    next = NULL;
+  }
+};
+*/
+class Solution {
+  public:
+    Node* sortedMerge(Node* head1, Node* head2) {
+        // code here
+        vector<int> str;
+        Node* temp1=head1;
+        Node* temp2=head2;
+        while(temp1!=NULL){
+            str.push_back(temp1->data);
+            temp1=temp1->next;
+        }
+        while(temp2!=NULL){
+            str.push_back(temp2->data);
+            temp2=temp2->next;
+        }
+        sort(str.begin(),str.end());
+        Node *dummy = new Node(-1);
+        Node *curr = dummy;
+        for(int i=0;i<str.size();i++){
+            curr->next=new Node(str[i]);
+            curr=curr->next;
+        }
+        return dummy->next;
+    }
+};
