@@ -1,0 +1,42 @@
+/*
+  Node is defined as
+    struct node
+    {
+        int data;
+        struct Node* next;
+
+        Node(int x){
+            data = x;
+            next = NULL;
+        }
+
+    }*head;
+*/
+
+class Solution {
+  public:
+    Node *reverseKGroup(Node *head, int k) {
+        // code here
+        if(k==1 || head==NULL || head->next==NULL){
+            return head;
+        }
+        
+        Node* curr=head;
+        Node* prev=NULL;
+        Node* nexti=NULL;
+        
+        int count=0;
+        
+        while(curr!=NULL && count<k){
+            nexti=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=nexti;
+            count++;
+        }
+        if(curr!=NULL){
+            head->next=reverseKGroup(curr,k);
+        }
+        return prev;
+    }
+};
