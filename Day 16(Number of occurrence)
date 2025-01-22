@@ -2,7 +2,6 @@ class Solution {
   public:
     int countFreq(vector<int>& arr, int target) {
         // code here
-        
         int count=0;
         int n=arr.size();
         int l=0,r=n-1;
