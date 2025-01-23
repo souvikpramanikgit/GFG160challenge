@@ -1,0 +1,49 @@
+/* Link list Node
+struct Node {
+    int data;
+    Node *next;
+    Node *random;
+
+    Node(int x) {
+        data = x;
+        next = NULL;
+        random = NULL;
+    }
+};*/
+
+class Solution {
+  public:
+    Node *cloneLinkedList(Node *head) {
+        // Write your code here
+        Node* curr=head;
+        
+        while(curr){
+            Node* cloneNode=new Node(curr->data);
+            Node* temp=curr->next;
+            curr->next=cloneNode;
+            cloneNode->next=temp;
+            curr=curr->next->next;
+        }
+        
+        curr=head;
+        
+        while(curr){
+            if(curr->random){
+                curr->next->random=curr->random->next;
+            }
+            curr=curr->next->next;
+        }
+        
+        Node *clone = new Node(-1);
+        curr = head;
+        Node *temp = clone;
+        
+        while(curr){
+            temp->next = curr->next;
+            curr->next = curr->next->next;
+            temp = temp->next;
+            curr = curr->next;
+        }
+        return clone->next;
+    }
+};
