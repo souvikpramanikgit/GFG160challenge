@@ -1,0 +1,49 @@
+class LRUCache {
+  private:
+  public:
+    // Constructor for initializing the cache capacity with the given value.
+    int x=0,y=0;
+    int mppSize;
+    unordered_map<int,pair<int,int>> mpp;
+    unordered_map<int,int> mp;
+    LRUCache(int cap) {
+        // code here
+        mppSize=cap;
+    }
+
+    // Function to return value corresponding to the key.
+    int get(int key) {
+        // your code here
+        if(mpp.find(key)!=mpp.end()){
+            x++;
+            mp.erase(mpp[key].second);
+            mp[x]=key;
+            mpp[key].second = x;
+            return mpp[key].first;
+        }
+        else{
+            return -1;
+        }
+    }
+
+    // Function for storing key-value pair.
+    void put(int key, int value) {
+        // your code here
+        x++;
+
+        if (mpp.find(key) != mpp.end()) {
+            mp.erase(mpp[key].second);
+            mp[x]=key;
+            mpp[key] = {value, x};
+            return;
+        }
+
+        if (mpp.size() == mppSize) {
+            while(!mp.count(y)) y++;
+            mpp.erase(mp[y]);
+            mp.erase(y);
+        }
+        mpp[key] = {value, x};
+        mp[x]=key;
+    }
+};
