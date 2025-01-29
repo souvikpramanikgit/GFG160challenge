@@ -1,0 +1,8 @@
+class Solution {
+  public:
+    double power(double b, int e) {
+        // code here
+        double ans=pow(b,e);
+        return ans;
+    }
+};
