@@ -47,3 +47,5 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 39   | [Count all triplets with given sum in sorted array](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2039(Count%20all%20triplets%20with%20given%20sum%20in%20sorted%20array)) |
 | 40   | [Count Pairs whose sum is less than target](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2040(Count%20Pairs%20whose%20sum%20is%20less%20than%20target)) |
 | 41   | [Sum Pair closest to target](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2041(Sum%20Pair%20closest%20to%20target)) |
+| 42   | [Pair with given sum in a sorted array](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2042(Pair%20with%20given%20sum%20in%20a%20sorted%20array)) |
+| 43   | [Count the number of possible triangles](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2043(Count%20the%20number%20of%20possible%20triangles)) |
