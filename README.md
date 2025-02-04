@@ -41,3 +41,9 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 33   | [Intersection of Two arrays with Duplicate Elements](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2033(Intersection%20of%20Two%20arrays%20with%20Duplicate%20Elements)) |
 | 34   | [Union of Arrays with Duplicates](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2034(Union%20of%20Arrays%20with%20Duplicates)) |
 | 35   | [Longest Consecutive Subsequence](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2035(Longest%20Consecutive%20Subsequence)) |
+| 36   | [Print Anagrams Together](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2036(Print%20Anagrams%20Together)) |
+| 37   | [Subarrays with sum K](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2037(Subarrays%20with%20sum%20K)) |
+| 38   | [Count Subarrays with given XOR](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2038(Count%20Subarrays%20with%20given%20XOR)) |
+| 39   | [Count all triplets with given sum in sorted array](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2039(Count%20all%20triplets%20with%20given%20sum%20in%20sorted%20array)) |
+| 40   | [Count Pairs whose sum is less than target](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2040(Count%20Pairs%20whose%20sum%20is%20less%20than%20target)) |
+| 41   | [Sum Pair closest to target](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2041(Sum%20Pair%20closest%20to%20target)) |
