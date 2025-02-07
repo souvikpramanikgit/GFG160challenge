@@ -1,18 +1,12 @@
-// Full function Template for C++
 /*
 class Node {
 public:
     int data;
     Node *left;
     Node *right;
-
-    Node(int x) {
-        data = x;
-        left = right = NULL;
-    }
+    Node(int x) { data = x; left = right = NULL;}
 };
 */
-
 class Solution {
   public:
     // Function to convert a binary tree into its mirror tree.
