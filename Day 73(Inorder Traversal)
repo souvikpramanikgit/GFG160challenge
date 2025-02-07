@@ -19,7 +19,6 @@ class Solution {
     // Function to return a list containing the inorder traversal of the tree.
     void ans(Node* root,vector<int> &arr){
         if(!root) return;
-        
         ans(root->left,arr);
         arr.push_back(root->data);
         ans(root->right,arr);
