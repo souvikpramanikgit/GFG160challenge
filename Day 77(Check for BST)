@@ -1,1 +1,18 @@
-code
+class Solution {
+  public:
+    // Function to check whether a Binary Tree is BST or not.
+    void check(Node* head, int &x , bool &dekh){
+        if(head==NULL) return;
+        check(head->left, x, dekh);
+        if(x>=head->data) dekh=false;
+         x=head->data;
+        check(head->right, x, dekh);
+    }
+    bool isBST(Node* root) {
+        // Your code here
+        bool checking=true;
+        int x=INT_MIN;
+        check(root,x,checking);
+        return checking;
+    }
+};
