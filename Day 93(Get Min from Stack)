@@ -1,0 +1,44 @@
+class Solution {
+  public:
+    stack<pair<int,int>>s;
+    int curmin;
+    Solution() {
+        // code here
+    }
+
+    // Add an element to the top of Stack
+    void push(int x) {
+        // code here
+        if(s.size()==0){
+            curmin=INT_MAX;
+        } else if(s.size()!=0 && s.top().second>curmin){
+            curmin=s.top().second;
+        }
+        curmin=min(x,curmin);
+        s.push({x,curmin});
+    }
+
+    // Remove the top element from the Stack
+    void pop() {
+        // code here
+        if(s.size()>0)
+        s.pop();
+    }
+
+    // Returns top element of the Stack
+    int peek() {
+        // code here
+        if(s.size()==0)
+        return -1;
+        return s.top().first;
+
+    }
+
+    // Finds minimum element of Stack
+    int getMin() {
+        // code here
+        if(s.size()==0)
+        return -1;
+        return s.top().second;
+    }
+};
