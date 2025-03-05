@@ -1,0 +1,29 @@
+class Solution {
+  public:
+    int longestStringChain(vector<string>& words) {
+        // Code here
+        int n = words.size();
+        vector<unordered_set<string>> mp(11);
+        map<string, int> dp;
+        
+        for(string &s : words){
+            if(s.length() == 1) dp[s] = 1;
+            mp[s.length()].insert(s);
+        }
+        
+        int ans = 1;
+        for(int i = 2; i <= 10; ++i){
+            for(auto &s : mp[i]){
+                dp[s] = 1;
+                for(int j = 0; j < s.length(); ++j){
+                    string temp = s.substr(0, j) + s.substr(j + 1);
+                    if(mp[i - 1].count(temp)){
+                        dp[s] = max(dp[s], 1 + dp[temp]);
+                    }
+                }
+                ans = max(ans, dp[s]);
+            }
+        }
+        return ans;
+    }
+};
