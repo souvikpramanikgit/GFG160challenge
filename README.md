@@ -49,3 +49,11 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 41   | [Sum Pair closest to target](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2041(Sum%20Pair%20closest%20to%20target)) |
 | 42   | [Pair with given sum in a sorted array](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2042(Pair%20with%20given%20sum%20in%20a%20sorted%20array)) |
 | 43   | [Count the number of possible triangles](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2043(Count%20the%20number%20of%20possible%20triangles)) |
+| 44   | [Indexes of Subarray Sum](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2044(Indexes%20of%20Subarray%20Sum))) |
+| 45   | [Count distinct elements in every window](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2045(Count%20distinct%20elements%20in%20every%20window)) |
+| 46   | [Longest substring with distinct characters](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2046(Longest%20substring%20with%20distinct%20characters)) |
+| 47   | [Trapping Rain Water](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2047(Trapping%20Rain%20Water)) |
+| 48   | []() |
+| 49   | []() |
+| 50   | []() |
+| 51   | []() |
