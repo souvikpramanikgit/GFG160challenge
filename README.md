@@ -53,7 +53,7 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 45   | [Count distinct elements in every window](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2045(Count%20distinct%20elements%20in%20every%20window)) |
 | 46   | [Longest substring with distinct characters](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2046(Longest%20substring%20with%20distinct%20characters)) |
 | 47   | [Trapping Rain Water](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2047(Trapping%20Rain%20Water)) |
-| 48   | []() |
+| 48   | [Container With Most Water](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2048(Container%20With%20Most%20Water)) |
 | 49   | []() |
 | 50   | []() |
 | 51   | []() |
