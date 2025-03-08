@@ -56,4 +56,4 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 48   | [Container With Most Water](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2048(Container%20With%20Most%20Water)) |
 | 49   | [Equilibrium Point](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2049(Equilibrium%20Point)) |
 | 50   | [Longest Subarray with Sum K](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2050(Longest%20Subarray%20with%20Sum%20K)) |
-| 51   | []() |
+| 51   | [Largest subarray of 0's and 1's](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2051(Largest%20subarray%20of%200's%20and%201's)) |
