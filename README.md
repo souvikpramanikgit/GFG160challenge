@@ -57,3 +57,12 @@ Welcome to the **GFG 160 Challenge** repository! This repository contains daily 
 | 49   | [Equilibrium Point](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2049(Equilibrium%20Point)) |
 | 50   | [Longest Subarray with Sum K](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2050(Longest%20Subarray%20with%20Sum%20K)) |
 | 51   | [Largest subarray of 0's and 1's](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2051(Largest%20subarray%20of%200's%20and%201's)) |
+| 52   | [Product array puzzle](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2052(Product%20array%20puzzle)) |
+| 53   | [Reverse a linked list](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2053(Reverse%20a%20linked%20list)) |
+| 54   | [Rotate a Linked List](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2054(Rotate%20a%20Linked%20List)) |
+| 55   | [Merge two sorted linked lists](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2055(Merge%20two%20sorted%20linked%20lists)) |
+| 56   | [Linked List Group Reverse](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2056(Linked%20List%20Group%20Reverse)) |
+| 57   | [Add Number Linked Lists](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2057(Add%20Number%20Linked%20Lists)) |
+| 58   | [Clone List with Next and Random](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2058(Clone%20List%20with%20Next%20and%20Random)) |
+| 59   | [Detect Loop in linked list](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2059(Detect%20Loop%20in%20linked%20list)) |
+| 60   | [Find the first node of loop in linked list](https://github.com/souvikpramanikgit/GFG160challenge/blob/main/Day%2060(Find%20the%20first%20node%20of%20loop%20in%20linked%20list)) |
